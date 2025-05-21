@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Assesment Belajar Android Form</string>
+    <string name="title_result">Anda Telah Berhasil Terdaftar</string>
+    <string name="nim">NIM Anda</string>
+    <string name="nim_hint">Ketikkan NIM Anda Disini</string>
+    <string name="nama">Nama Lengkap Anda</string>
+    <string name="nama_hint">Ketikkan Nama Anda Disini</string>
+
+    <string name="semester">Semester Anda</string>
+    <string name="device">Device Yang Digunakan Untuk Coding</string>
+    <string name="os_device">OS Device Yang Digunakan</string>
+
+    <string name="nama_os_bit">Nama Versi OS dan Bitnya</string>
+    <string name="nama_os_bit_hint">Ketikkan Nama Versi OS dan Bitnya Disini</string>
+    <string name="ram">RAM Device Yang Digunakan</string>
+    <string name="ram_hint">Ketikkan RAM Device Yang Digunakan Disini</string>
+    <string name="nama_cpu">Nama CPU Yang Digunakan</string>
+    <string name="nama_cpu_hint">Ketikkan Nama CPU Yang Digunakan Disini</string>
+
+    <string name="deployment">Deployment</string>
+    <string name="merk_hp">Merk HP Anda</string>
+
+    <string name="os_hp_versi">OS HP Anda dan Versi nya</string>
+    <string name="os_hp_versi_hint">Ketikkan OS HP Anda dan Versi nya Disini</string>
+    <string name="size_hp">Ukuran HP Anda</string>
+    <string name="size_hp_hint">Ketikkan Ukuran HP Anda Disini</string>
+
+    <string name="internet">Penggunaan Internet Ketika Coding</string>
+    <string name="install_android">Sudah Install Android Studio?</string>
+
+    <string name="versi_android">Versi Android Studio Yang Digunakan</string>
+    <string name="versi_android_hint">Ketikkan Versi Android Studio Yang Digunakan Disini</string>
+
+    <string name="submit">Simpan</string>
+</resources>
